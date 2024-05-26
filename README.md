@@ -3,7 +3,7 @@
   
 <table><thead>
   <tr>
-    <th><img src="https://github.com/Dgmalthael/Certificates/assets/85357861/29b31ad3-8785-4a47-a067-edd909609e3a" > </br> <i>Figure 1. Artwork Created by AI in Collaboration with  <a href="https://github.com/Dgmalthael" target="_blank" rel="noopener noreferrer">Dgmalthael</a> </i></th>
+    <th><img src="https://github.com/Dgmalthael/Certificates/assets/85357861/29b31ad3-8785-4a47-a067-edd909609e3a" > </br> <i><b>Figure 1.</b> Artwork Created by AI in Collaboration with  <a href="https://github.com/Dgmalthael" target="_blank" rel="noopener noreferrer">Dgmalthael</a> </i></th>
     <th>Welcome,
 
   This repository provides an organized display of files containing certificates, categorized by specific groups.
@@ -29,6 +29,11 @@
 
 
 <table><thead>
+
+ <tr>
+<td colspan="3"><i><b>Table 1.</b> Owned certificates</i> </td>
+
+  
   <tr>
     <th>Certificate name </th>
     <th>Organization</th>
