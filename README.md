@@ -8,11 +8,11 @@
 
   This repository provides an organized display of files containing certificates, categorized by specific groups.
 
-  🙊 Language Certificates:
+  🙊 Language Certificates
 
   🤖 Machine Learning (ML) , Atificial Intelligence (AI), Optimization
 
-  👨🏻‍💻 Other Certificates:
+  👨🏻‍💻 Other Certificates
 
  For further details, please refer to the respective files within each group.</th>
     
