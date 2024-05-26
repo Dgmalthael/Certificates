@@ -17,11 +17,7 @@
  For further details, please refer to the respective files within each group.</th>
     
   </tr></thead>
-  <span align="center">
-  
- </img>
 
-</span>
 </div>
   
 
